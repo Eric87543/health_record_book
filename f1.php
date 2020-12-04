@@ -10,7 +10,7 @@ function f1($data,$user_id,$link,$access_token,$reply_token,$time)
 			"messages" => [
 				[ 
 				  "type"=> "text",    
-				  "text"=> "請輸入你的藥品 格式:#藥品/劑量/次數 \n 例如:#癒我心/100/1天2次"
+				  "text"=> "請輸入你的藥品 格式:#藥品/劑量/次數 \n 例如:#艾達絡錠/100/1天2次"
 				]
 			]
 		];
